@@ -1,0 +1,29 @@
+body{
+    background: green;
+}
+
+.card{
+    background: white;
+    border-radius: 8px;
+    width: 300px;
+    height: 500px;
+    margin: 50px 0 0 50px;
+    position: relative;
+    font-size: 4rem;
+}
+
+#topSymbol{
+    padding: 20px 0 0 20px;
+
+}
+
+#number{
+    padding: 100px 0 0 125px;
+}
+
+#bottomSymbol{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
